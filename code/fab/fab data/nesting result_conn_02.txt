@@ -1,0 +1,6 @@
+﻿Objects in sheet 1: 10 Area: 74.41% Left over: 25.59%
+Objects in sheet 2: 11 Area: 81.65% Left over: 18.35%
+Objects in sheet 3: 11 Area: 74.72% Left over: 25.28%
+Objects in sheet 4: 11 Area: 73.97% Left over: 26.03%
+Objects in sheet 5: 12 Area: 72.50% Left over: 27.50%
+Objects in sheet 6: 2 Area: 11.30% Left over: 88.70%
